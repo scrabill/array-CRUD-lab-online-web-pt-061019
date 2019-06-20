@@ -9,6 +9,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   # add_element_to_end_of_array << "pizza"
+  array << element
 end
 
 # def add(num1, num2)
