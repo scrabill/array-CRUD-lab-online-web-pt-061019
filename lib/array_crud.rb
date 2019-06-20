@@ -12,6 +12,8 @@ def add_element_to_end_of_array(array, element)
   array << element
 end
 
+array = [1,2,3]
+
 # def add(num1, num2)
 #   puts num1 + num2
 # end
