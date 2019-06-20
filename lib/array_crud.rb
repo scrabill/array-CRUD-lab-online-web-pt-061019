@@ -46,7 +46,7 @@ end
 def retrieve_first_element_from_array(array)
 
   # array[0]
-  array.shift
+  return array.shift
 
 end
 
