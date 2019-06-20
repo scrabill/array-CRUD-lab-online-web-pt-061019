@@ -8,12 +8,12 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  add_element_to_end_of_array << "pizza"
+  # add_element_to_end_of_array << "pizza"
 end
 
-def add(num1, num2)
-  puts num1 + num2
-end
+# def add(num1, num2)
+#   puts num1 + num2
+# end
 
 def add_element_to_start_of_array(array, element)
 
